@@ -1,6 +1,6 @@
 - 👋 Hi, I’m CHIMAIHE
-- I’m on my jorney to Cyber Security..
-- 🌱 I’m currently learning java script
+- I’m on my journey to Cyber Security..
+- 🌱 I’m currently learning terraform
 - 💞️ I’m looking to collaborate with many bright minds who are going to bring order through maximum security ...
 - 📫 How to reach me faster;+2349031327210
 - I'm currently running a diploma degree with Altschool
